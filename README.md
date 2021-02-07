@@ -6,8 +6,8 @@
 -   [Joe Lopez](https://github.com/Codo-Baggins)
 -   [Demaceo Howard](https://github.com/demaceo)
     ### Project Links ::
--   [Repo](https://github.com/demaceo/intention-timer)
--   [Deployed Page](https://demaceo.github.io/intention-timer/)
+-   [Repo](https://github.com/Codo-Baggins/intention-timer)
+-   [Deployed Page](https://codo-baggins.github.io/intention-timer/)
     ## Set-up ::
 -   Create repository and clone to personal computer
 -   Open in text editor
