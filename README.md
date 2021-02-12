@@ -1,4 +1,4 @@
-# Intention Timer
+# [Intention Timer](https://codo-baggins.github.io/intention-timer/)
 
 ### Developers ::
 
